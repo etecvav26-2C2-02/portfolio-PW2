@@ -5,6 +5,8 @@
         foreach ($v as $n){
             $s += $n;
         }
+        $rs = $s / count($v);
+        return count($v);
     }
 $v = $_POST['v'];
 echo media($v);
