@@ -1,6 +1,7 @@
 <?php
     function soma($n1, $rs){
-        for($i = 0; $i <= $n1; $i++){
+        // Função que calcula a soma de 0 até n1
+        for($i = 0; $i <= $n1; $i++);
             $rs += $i;
         }
         return $rs;
