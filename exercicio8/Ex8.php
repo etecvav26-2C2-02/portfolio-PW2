@@ -10,7 +10,11 @@
     <form method="post" action="main.php">
         <label>Escreva: </label>
         <input type="text" name="n1" step="any" required>
+        <!-- Campo de entrada de texto -->
+        <!-- name="n1":o nome da váriavel  -->
+        <!-- required: obriga o usuário a preencher antes de enviar -->
         <button>Enviar</button>
+        <!-- Botão de enviar o numero -->
     </form>
 </body>
 </html>
