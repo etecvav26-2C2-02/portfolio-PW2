@@ -6,6 +6,7 @@
     <title>Exercicio08PhP</title>
 </head>
 <body>
+    <!-- Estrutura e "corpo" da página-->
     <form method="post" action="main.php">
         <label>Escreva: </label>
         <input type="text" name="n1" step="any" required>
