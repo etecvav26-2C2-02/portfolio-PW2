@@ -2,9 +2,11 @@
     function soma($n1, $rs){
         // Função que calcula a soma de 0 até n1
         for($i = 0; $i <= $n1; $i++);
+        // Laço "determinante" da função
             $rs += $i;
         }
         return $rs;
+        // retorna a função
     }
     
     if(isset($_POST["n1"])) {
