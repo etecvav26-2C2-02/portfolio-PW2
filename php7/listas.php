@@ -14,7 +14,7 @@ if (isset($_POST['n1'])){
                 $_POST["n7"],
                 $_POST["n8"]
             ];
-//vetores
+//contrucao de array
 $positivos = [];
 $negativos = [];
 //chega quais os numeros positivos e separa pra cada lista correta
