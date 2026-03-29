@@ -1,12 +1,12 @@
 <?php
     function media($v)
     {
-        $v = $_POST['v'];
         $s = 0;
+        $q = count($v);
         foreach ($v as $n){
             $s += $n;
         }
-        $rs = $s / count($v);
+        $rs = $s / $q;
         return $rs;
     }
 ?>
