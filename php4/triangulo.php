@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 include ("index.php");
@@ -12,6 +11,7 @@ if (isset($_POST['valor'])) {
         for ($j = 1; $j <= $i; $j++) {
             echo $j . " ";
         }
+        //pula linha
         echo "<br>";
     }
 }
