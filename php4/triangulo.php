@@ -1,3 +1,24 @@
+<<<<<<< HEAD
+<?php
+
+include ("index.php");
+
+//checagem da caixa de texto
+if (isset($_POST['valor'])) {
+    $n = $_POST['valor'];
+    //esquema de repetição
+    for ($i = 1; $i <= $n; $i++) {
+        //impressora de números
+        for ($j = 1; $j <= $i; $j++) {
+            echo $j . " ";
+        }
+        echo "<br>";
+    }
+}
+?>
+
+
+=======
 <?php
 //checagem da caixa de texto
 if (isset($_POST['valor'])) {
@@ -23,4 +44,5 @@ if (isset($_POST['valor'])) {
 <body>
     <a href="index.php">voltar</a>
 </body>
+>>>>>>> d3b6fe0aeddd44f52ee6a5abe1c40e9f8f325847
 </html>
