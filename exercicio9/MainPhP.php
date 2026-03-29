@@ -9,11 +9,11 @@
         return $rs / $q;
     }
     if (isset($_POST['v'])) {
-        $entrada = $_POST['v'];
-        $array = explode(" ", $entrada);
-        $numeros = array_map('floatval', $array);
-        $resultado = media($numeros);
-        echo "Média: " . $resultado;
+        $e = $_POST['v'];
+        $a = explode(" ", $e);
+        $n = array_map('floatval', $a);
+        $r = media($n);
+        echo "Média: " . $r;
     }
 
 ?>
