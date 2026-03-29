@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 include ("index.php");
@@ -15,7 +14,7 @@ include ("index.php");
  $soma = 0;
 
     if(isset($_POST["n1"])){
-//pega varias variaveis
+//pega varias variaveis, array de dados
             $valores = [
                 $_POST["n1"],
                 $_POST["n2"],
