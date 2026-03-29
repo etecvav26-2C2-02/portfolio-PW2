@@ -6,7 +6,7 @@
         foreach ($v as $n){
             $s += $n;
         }
-        return $rs / $q;
+        return $s / $q;
     }
     if (isset($_POST['v'])) {
         $e = $_POST['v'];
