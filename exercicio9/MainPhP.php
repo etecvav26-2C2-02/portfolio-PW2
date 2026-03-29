@@ -6,7 +6,14 @@
         foreach ($v as $n){
             $s += $n;
         }
-        $rs = $s / $q;
-        return $rs;
+        return $rs / $q;
     }
+    if (isset($_POST['v'])) {
+        $entrada = $_POST['v'];
+        $array = explode(" ", $entrada);
+        $numeros = array_map('floatval', $array);
+        $resultado = media($numeros);
+        echo "Média: " . $resultado;
+    }
+
 ?>
