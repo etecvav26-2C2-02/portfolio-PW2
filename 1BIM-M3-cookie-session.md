@@ -1,6 +1,6 @@
 ## 1. pergunta:
 
-A diferença entre cookies e sessions é principalmente sobre a sua usabilidade, por mais que ambos sirvam pra guardar dados um guarda dados fornecidos diretamente pelo usuário (cookies) e o outro busca guardas dados imutáveis e já existentes e ficam no servidor (sessions) sendo mais seguro por que seus dados não são visíveis nem podem ser acessados pelo usuário, até por que os cookies tem uma “expectativa de vida” por outro lado sessions normalmente duram até o logout, cookies sendo normalmente sendo usados pra Eles servem para identificar o usuário, melhorar a experiência (salvar login/carrinho) e rastrear comportamentos para publicidade personalizada. utilizado para manter informações sobre um usuário específico durante a sua navegação em um site ou aplicativo.
+A diferença entre cookies e sessions é principalmente sobre a sua usabilidade, por mais que ambos sirvam pra guardar dados, um guarda dados fornecidos diretamente pelo usuário (cookies), e o outro busca guardas dados imutáveis e já existentes e ficam no servidor (sessions) sendo mais seguro por que seus dados não são visíveis nem podem ser acessados pelo usuário, até por que os cookies tem uma “expectativa de vida”, já por outro lado, os sessions normalmente duram até o logout, cookies sendo normalmente sendo usados para melhorar a experiência do usuário (salvar login/carrinho) e rastrear comportamentos para publicidade personalizada. utilizado para manter informações sobre um usuário específico durante a sua navegação em um site ou aplicativo.
 
 ## 2. pergunta:
 
