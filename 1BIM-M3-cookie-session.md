@@ -8,10 +8,10 @@ O sessions seriam usados para guardas informações de itens e dados do site, po
 
 ## 3. pergunta:
 
-passo: tinha uma mensagem escrito: “Cookie ainda não disponível.”;
-passo: tinha uma mensagem escrita: ”Valor do cookie: 1”;
-passo: tinha várias colunas uma com o nome contador, uma com nome valor e logo a baixo 1;
-passo: limpei e atualizei e estava escrito: “Cookie ainda não disponível.” novamente.
+1. passo: tinha uma mensagem escrito: “Cookie ainda não disponível.”;
+2. passo: tinha uma mensagem escrita: ”Valor do cookie: 1”;
+3. passo: tinha várias colunas uma com o nome contador, uma com nome valor e logo a baixo 1;
+4. passo: limpei e atualizei e estava escrito: “Cookie ainda não disponível.” novamente.
 acho que como não tem a entrada de nenhum valor inicial pros cookies ele diz que não existe um cookie porque ele precisa de um dado pra funcionar.
 
 ## 4. pergunta:
