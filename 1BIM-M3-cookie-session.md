@@ -4,7 +4,7 @@ A diferença entre cookies e sessions é principalmente sobre a sua usabilidade,
 
 ## 2. pergunta:
 
-O sessions seriam usados para guardas informações de itens e dados do site e do usuários como email de login e senha, por ser mais seguro e não dar acesso ao clientes alterar e também o que ele colocar no carrinho porque eu não posso deixar esse dados ser apagado com o passar do tempo, e qualquer dado que não seja tão importante a ponto de ser necessária a todo o tempo eu guardaria em cookies, por exemplo classes de itens preferencia da pessoas, como se ela tem comprado muitas roupas, acessórios, utensílios entre outros.
+O sessions seriam usados para guardas informações de itens e dados do site e do usuários como email de login e senha, por ser mais seguro e não dar acesso ao clientes alterar e também o que ele colocar no carrinho porque eu não posso deixar esse dados ser apagado com o passar do tempo, e qualquer dado que não seja tão importante a ponto de ser necessária a todo o tempo eu guardaria em cookies, por exemplo classes de itens preferencia da pessoas, como se ela tem comprado muitas roupas, acessórios, utensílios entre outros para poder dar sugestões de itens por exemplo.
 
 ## 3. pergunta:
 
